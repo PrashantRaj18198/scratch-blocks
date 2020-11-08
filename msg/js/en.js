@@ -163,6 +163,7 @@ Blockly.Msg["OPERATORS_CONTAINS"] = "%1 contains %2?";
 Blockly.Msg["OPERATORS_MOD"] = "%1 mod %2";
 Blockly.Msg["OPERATORS_ROUND"] = "round %1";
 Blockly.Msg["OPERATORS_MATHOP"] = "%1 of %2";
+Blockly.Msg["OPERATORS_MATHOP_SQUARE"] = "square";
 Blockly.Msg["OPERATORS_MATHOP_ABS"] = "abs";
 Blockly.Msg["OPERATORS_MATHOP_FLOOR"] = "floor";
 Blockly.Msg["OPERATORS_MATHOP_CEILING"] = "ceiling";

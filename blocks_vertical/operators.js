@@ -442,6 +442,7 @@ Blockly.Blocks['operator_mathop'] = {
           "type": "field_dropdown",
           "name": "OPERATOR",
           "options": [
+            [Blockly.Msg.OPERATORS_MATHOP_SQUARE, 'square'],
             [Blockly.Msg.OPERATORS_MATHOP_ABS, 'abs'],
             [Blockly.Msg.OPERATORS_MATHOP_FLOOR, 'floor'],
             [Blockly.Msg.OPERATORS_MATHOP_CEILING, 'ceiling'],
